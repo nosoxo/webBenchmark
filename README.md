@@ -1,10 +1,10 @@
-# webBenchmark
-http benchmark tool to ran out your server bandwidth.
-- random User-Agent on every Request
-- customizable Referer Url
-- cocurrent thread as you wish, depends on you server performance.
+# web基准测试
+http基准测试工具可以耗尽服务器带宽。
+- 每个请求都有随机的用户代理
+- 可定制的引荐来源网址
+- 您希望的并发线程取决于您的服务器性能。
 
-# Usage: 
+# 用法: 
     webBenchmark -c [COUNT] -s [URL] -r [REFERER]
     -c int
           cocurrent thread for download (default 8)
