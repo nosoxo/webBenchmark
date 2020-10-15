@@ -14,7 +14,7 @@ http基准测试工具可以耗尽服务器带宽。
           target url (default "https://baidu.com")
 
 # LINUX:
-    wget https://github.com/maintell/webBenchmark/releases/download/0.1/webBenchmark_linux_x64
+    wget https://github.com/nosoxo/webBenchmark/releases/download/0.1/webBenchmark_linux_x64
     chmod +x webBenchmark_linux_x64
     ./webBenchmark_linux_x64 -c 32 -s https://target.url
 
